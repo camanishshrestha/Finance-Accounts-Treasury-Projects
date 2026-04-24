@@ -335,6 +335,3 @@ NSFR = (ASF / RSF) × 100
 > *— CA Manish Shrestha, CISA®*  
 > Chartered Accountant (ICAN) | Certified Information Systems Auditor (ISACA-USA)  
 > 🌐 [camanishshrestha.com.np](https://www.camanishshrestha.com.np) | [GitHub](https://github.com/camanishshrestha) | [LinkedIn](https://www.linkedin.com/in/manish-shrestha-cisa-grc)
-```
-
-**6** — Ready for the next project! 🚀
