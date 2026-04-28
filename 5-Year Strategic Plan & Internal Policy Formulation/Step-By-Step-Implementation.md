@@ -255,25 +255,108 @@ A **Strategic Plan** is the compass that guides every decision a bank makes — 
 
 #### 📊 Policy Development Lifecycle
 
-Step 1: Need Identification
-↓ (Regulatory change / operational gap / strategic requirement / audit finding)
-Step 2: Policy Research & Benchmarking
-↓ (NRB requirements / peer bank practices / international best practices)
-Step 3: Policy Drafting
-↓ (Clear structure / roles & responsibilities / procedures / limits / exceptions)
-Step 4: Stakeholder Review
-↓ (Department heads / Risk / Compliance / Legal review)
-Step 5: Management Approval
-↓ (CEO / Management Committee approval)
-Step 6: Board Approval
-↓ (Board resolution for Board-level policies)
-Step 7: Communication & Training
-↓ (Circular to all staff / training sessions / acknowledgment collection)
-Step 8: Implementation & Monitoring
-↓ (Operational implementation / compliance monitoring)
-Step 9: Periodic Review & Update
-↓ (Annual review / update for regulatory changes / lessons learned)
+# Policy Formulation Lifecycle (Banking / Regulatory Framework)
 
+---
+
+## Step-by-Step Process
+
+---
+
+### Step 1: Need Identification
+↓
+- Triggered by:
+  - Regulatory change (NRB updates, IFRS changes)
+  - Operational gaps identified
+  - Strategic business requirements
+  - Internal / external audit findings
+
+---
+
+### Step 2: Policy Research & Benchmarking
+↓
+- Review of:
+  - NRB directives and circulars
+  - Peer bank policies and practices
+  - International best practices (IFRS / Basel / ISO)
+- Objective:
+  - Ensure compliance + competitiveness + alignment with industry standards
+
+---
+
+### Step 3: Policy Drafting
+↓
+- Develop structured policy document covering:
+  - Purpose and scope
+  - Definitions
+  - Roles and responsibilities
+  - Detailed procedures
+  - Limits and thresholds
+  - Exceptions and escalation rules
+
+---
+
+### Step 4: Stakeholder Review
+↓
+- Reviewed by key functions:
+  - Department heads
+  - Risk management
+  - Compliance team
+  - Legal team
+- Objective:
+  - Identify control gaps, legal risks, and operational feasibility issues
+
+---
+
+### Step 5: Management Approval
+↓
+- Approval by:
+  - CEO / Managing Director
+  - Management Committee (as applicable)
+- Focus:
+  - Business alignment and operational feasibility
+
+---
+
+### Step 6: Board Approval
+↓
+- Required for:
+  - High-level governance policies
+  - Risk, credit, compliance, and major operational policies
+- Approved through:
+  - Formal Board resolution
+
+---
+
+### Step 7: Communication & Training
+↓
+- Activities:
+  - Issuance of official circulars
+  - Staff-wide communication
+  - Training sessions / workshops
+  - Acknowledgment of policy receipt from employees
+
+---
+
+### Step 8: Implementation & Monitoring
+↓
+- Execution at operational level
+- Continuous monitoring through:
+  - Internal controls
+  - Compliance checks
+  - Internal audit reviews
+
+---
+
+### Step 9: Periodic Review & Update
+↓
+- Conducted:
+  - Annually or as required
+- Basis for updates:
+  - Regulatory changes
+  - Audit findings
+  - Operational feedback
+  - Industry best practices
 
 ---
 
